@@ -6,7 +6,7 @@ Il pacchetto si installa così:
 
 ```r
 library(devtools)
-install_github("mirkoferretti2/pippo")
+install_github("mirkoferretti1/pippo")
 ```
 
 Per usare il pacchetto va richiamto con la funzione `library()`:
