@@ -29,17 +29,6 @@ Il repository è organizzato come segue:
 
 
 Esempio Struttura:
-pippo/
-├── R/
-│ └── somma.R
-│
-├── man/
-│ └── somma.Rd
-│
-├── DESCRIPTION
-│
-└── README.md
-
 
 ## 📁 Descrizione dei file
 
