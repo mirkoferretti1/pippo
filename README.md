@@ -1,3 +1,3 @@
-# pippo
+# About `pippo`
 
 Questo pacchetto è stato creato a lezione
