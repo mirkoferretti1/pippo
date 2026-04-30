@@ -14,3 +14,9 @@ Per usare il pacchetto va richiamto con la funzione `library()`:
 ```r
 library(pippo)
 ```
+
+Per disinstallare il pacchetto:
+
+```r
+remove.packages("pippo")
+```
