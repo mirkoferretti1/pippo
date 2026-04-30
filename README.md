@@ -20,3 +20,15 @@ Per disinstallare il pacchetto:
 ```r
 remove.packages("pippo")
 ```
+
+Esempio Struttura:
+pippo/
+├── R/
+│ └── somma.R
+│
+├── man/
+│ └── somma.Rd
+│
+├── DESCRIPTION
+│
+└── README.md
